@@ -1,7 +1,7 @@
 ## 👴的脚手架
 
 ## 安装
-`npm install -g yeye-cli`
+`npm install -g grandfather-cli`
 
 ## 项目创建命令
 
