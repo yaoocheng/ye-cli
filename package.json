@@ -7,7 +7,7 @@
         "ye": "./cli.js"
     },
     "scripts": {},
-    "repository": "",
+    "repository": "https://github.com/yc-cooding/ye-cli",
     "keywords": [
         "ye-cli",
         "脚手架"
