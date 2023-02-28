@@ -1,6 +1,6 @@
 {
-    "name": "yeye-cli",
-    "version": "1.0.1",
+    "name": "grandfather-cli",
+    "version": "1.0.0",
     "description": "",
     "main": "cli.js",
     "bin": {
